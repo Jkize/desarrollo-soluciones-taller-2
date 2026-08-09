@@ -27,7 +27,7 @@ def load_data():
     return df
 
 
-# Cargar datos
+# Ya tenia los datos cargados, esto es test para ver git log
 data = load_data()
 
 # Graficar serie
