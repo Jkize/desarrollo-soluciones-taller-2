@@ -29,6 +29,7 @@ def load_data():
 
 # Ya tenia los datos cargados, esto es test para ver git log
 # Hola Soy Jhoan
+# Hola este comentario es una modificación de juan valera
 data = load_data()
 
 # Graficar serie
